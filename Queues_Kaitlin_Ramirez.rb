@@ -99,7 +99,7 @@ class SolarSystem
           print "is #{@distance_from_each_other[2]}  astronomical units from Venus."
           puts
         end
-      end
+    end
   end
 
 end
