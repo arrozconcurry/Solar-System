@@ -1,6 +1,6 @@
 #Planet Class
 class Planet
-attr_reader :name, :greek, :number, :type, :moons, :distance_from_the_sun
+  attr_reader :name, :greek, :number, :type, :moons, :distance_from_the_sun
 
   def initialize(planet_hash)
     @name = planet_hash[:name]
