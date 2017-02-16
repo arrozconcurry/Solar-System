@@ -113,3 +113,4 @@ milky_way.add_planet(earth_hash)
 #Does math then makes output to terminal
 milky_way.math
 milky_way.description
+puts "TA DA"
